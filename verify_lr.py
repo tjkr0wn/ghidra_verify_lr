@@ -2,7 +2,7 @@
 #@category iOS.iBoot
 
 # ghidra_verify_lr
-# Ghidra plugin for outlined x30 verification
+# Ghidra plugin for inlined x30 verification
 # @tjkr0wn - Tarek Joumaa
 
 from image import *
